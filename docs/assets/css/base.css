@@ -1,0 +1,191 @@
+:root {
+  --main-color: #4b384c;
+  --secondary-color: #D1BFC8;
+}
+
+.content {
+  padding: 0;
+}
+
+/* Markdown style */
+.anchor,
+.markdown-section a {
+  color: var(--main-color) !important;
+}
+
+.markdown-section blockquote{
+  border-left: 4px solid var(--main-color);
+}
+
+.markdown-section tr:nth-child(2n) {
+  background: none;
+}
+
+.markdown-section > h1 {
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  display: flex;
+  padding-top: 25px;
+}
+
+.markdown-section > h1 > a > span {
+  font-size: larger;
+  font-weight: 100;
+}
+
+.markdown-section {
+  display: flex;
+  margin: 0;
+  max-width: 100%;
+  width: 100%;
+}
+
+.markdown-section code {
+  color: var(--main-color) !important;
+}
+
+
+/* Coverpage style */
+/* .show {
+  background: none !important;
+}
+
+.cover-main {
+  background: none;
+} */
+
+
+/* .cover {
+  background-image: url('../images/veia.jpg') !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed !important;
+  background-position: center !important;
+} */
+
+section.cover .cover-main > p:last-child a:last-child {
+  background-color: var(--main-color) !important;
+  border-color:  var(--main-color) !important;
+}
+
+section.cover .cover-main > p:last-child a {
+  color:  var(--main-color);
+  border-color:  var(--main-color) !important;
+}
+
+
+/* Sidebar style */
+
+.sidebar ul li.active > a {
+  color: var(--main-color) !important;
+} 
+
+.sidebar-toggle span {
+  background-color: var(--main-color) !important;
+}
+
+/* .sidebar {
+  display: none;
+  transform: translateX(-300px);
+}
+
+.sidebar-toggle {
+  display: none;
+} */
+
+/* .imageBlog {
+  width: 100px;
+  height: 100px;
+  background-color: aquamarine;
+} */
+
+.app-name {
+  width: 50%;
+}
+
+.body-text {
+  font-size: 16px;
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+.body-text > img {
+  width: 100%;
+  margin: 20px 0;
+}
+
+.body-text > h3 > a > span {
+  font-weight: 100;
+}
+
+.body-img {
+  display: flex;
+  align-items: center;
+}
+
+.body-img p {
+  margin: 0;
+  width: 50%;
+  padding-right: 5%;
+}
+
+.body-img img {
+  width: 50%;
+  height: 100%;
+  margin: 20px 0;
+}
+
+.body-img img:not(:first-of-type) {
+  padding-left: 5%;
+}
+
+.destaque {
+  font-size: 40px;
+  font-weight: 100;
+}
+
+@media screen and (max-width: 980px) {
+ 
+  .body-text > img {
+    width: 100%;
+  }
+  
+  .body-img {
+    display: block;
+  }
+  
+  .body-img p {
+    margin: 0;
+    width: 100%;
+    padding: 0;
+  }
+  
+  .body-img img {
+    width: 100%;
+    height: 100%;
+    padding-left: 0;
+    padding-top: 30px;
+  }
+
+  .markdown-section > h1 {
+    writing-mode: initial;
+    text-orientation: initial;
+    padding-top: 0;
+  }
+  
+  .markdown-section {
+    margin: 0 auto;
+    max-width: 80%;
+    display: block;
+  }
+
+  .body-text {
+    font-size: 18px;
+    max-width: 100%;
+  }
+
+}
+
+
+.body-bottom {
+  font-size: 13px;
+}
