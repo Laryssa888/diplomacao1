@@ -44,6 +44,29 @@
   color: var(--main-color) !important;
 }
 
+.container-double-text {
+  display: flex;
+  margin-top: 25px;
+}
+
+.double-text {
+  margin: 0 20px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.double-text > h4 {
+  display: flex;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+}
+
+.double-text > ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
 
 /* Coverpage style */
 /* .show {
@@ -55,12 +78,12 @@
 } */
 
 
-/* .cover {
+.cover {
   background-image: url('../images/veia.jpg') !important;
   background-repeat: no-repeat !important;
   background-attachment: fixed !important;
   background-position: center !important;
-} */
+}
 
 section.cover .cover-main > p:last-child a:last-child {
   background-color: var(--main-color) !important;
@@ -181,6 +204,16 @@ section.cover .cover-main > p:last-child a {
   .body-text {
     font-size: 18px;
     max-width: 100%;
+  }
+
+  .container-double-text {
+    display: block;
+    margin-top: 0;
+  }
+
+  .double-text {
+    margin: 0;
+    margin-top: 25px;
   }
 
 }
