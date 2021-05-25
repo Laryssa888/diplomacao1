@@ -1,10 +1,11 @@
 # Referências Projetuais
 
 
+
 <div align="justify" class="body-text">
 
-
 # Lar dos idosos
+<h3>Dominique Coulon & Associes | ORBEC, FRANÇA</h3>
 
 ### ESTUDO DE CASO
 
@@ -57,6 +58,7 @@ O edifício contém 25 residências individuais, além se restaurante, oficina, 
 
 ----
 # Lar de idosos em Perafita
+<h3>Grupo Iperforma | PERAFITA, PORTUGAL</h3>
 
 ### PROGRAMA DE NECESSIDADES / INTERAÇÃO
 
