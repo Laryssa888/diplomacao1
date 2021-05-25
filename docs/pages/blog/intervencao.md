@@ -45,9 +45,17 @@ O Recanto das Emas conta com belíssimas reservas naturais. Em 1996, por meio da
 | Subsolo  | permitido-tipo 2  |
 | Notas  | RA15_nota2 |
 
+<div style="display:flex; align-items:center; flex-direction:column; margin:30px 0;">
+  <img style="width:70%;" src='assets/images/intervencao7.jpg'/>
+</div>
 
+----
 
-  <img src='assets/images/intervencao2.png'/>
+<div style="display:flex;">
+  <img style="width:50%;" src='assets/images/intervencao2.png'/>
+  <img style="width:75%;" src='assets/images/intervencao6.jpg'/>
+</div>
+
 
 
 ----

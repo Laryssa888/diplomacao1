@@ -42,7 +42,7 @@
 
 ----
 
-<h1 style="font-size:50px; margin-bottom:40px">VOLUMETRIA</h1>
+<h1 style="font-size:40px; margin-bottom:40px">VOLUMETRIA</h1>
 
 <div style="display:flex;">
     <img style="width:50%;" src='assets/images/p8.png'/>
@@ -61,6 +61,17 @@
 </div>
 
 
+# Implantação
+
+  <div style="display:flex; align-items:center; flex-direction:column">
+    <img style="width:70%;" src='assets/images/implantacao.jpg'/>
+  </div>
+
+# Carta solar
+
+  <div style="display:flex; align-items:center; flex-direction:column">
+    <img style="width:70%;" src='assets/images/carta_solar.jpg'/>
+  </div>
 
 ----
 
