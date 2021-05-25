@@ -29,6 +29,24 @@ O Recanto das Emas conta com belíssimas reservas naturais. Em 1996, por meio da
 
 #### Projeto de Lei Complementar da Lei de Uso e Ocupação do Solo - LUOS
 
+|Nome|Dado   |
+|-------|-----|
+| Endereço Cartorial  | SH Parque das Bençãos QNC 104 Cj 08 Lt 3  |
+| Área  | 2472,29  |
+| Norma  | NGB 043/13   |
+| Localidade Urbana  | 15  |
+| Código Parâmetro  | 1513  |
+| UOS Parâmetro  | CSIIR 2 - Parque das Bençãos  |
+| Taxa Ocupação  | 70  |
+| Taxa Permeável  | 20  |
+| Altura Máxima  | 36,5  |
+| Marquise  | obrigatória  |
+| Cota Soleira  | ponto médio da testada frontal  |
+| Subsolo  | permitido-tipo 2  |
+| Notas  | RA15_nota2 |
+
+
+
   <img src='assets/images/intervencao2.png'/>
 
 
@@ -38,12 +56,19 @@ O Recanto das Emas conta com belíssimas reservas naturais. Em 1996, por meio da
 
 #### Ciclovias
 
+  <img src='assets/images/ciclovias.png'/>
+
 #### Rodovias principais
+
+  <img src='assets/images/rodovias.png'/>
 
 #### Curvas de nível
 
+  <img src='assets/images/curvas.png'/>
 
 #### Densidade de vegetação
+
+  <img src='assets/images/densidade.png'/>
 
 ----
 
