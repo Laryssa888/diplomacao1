@@ -40,8 +40,9 @@
   width: 100%;
 }
 
-.markdown-section code {
+.markdown-section code, .markdown-section pre {
   color: var(--main-color) !important;
+  background-color: transparent !important;
 }
 
 .container-double-text {
@@ -53,12 +54,14 @@
   margin: 0 20px;
   display: flex;
   align-items: flex-end;
+  min-width: 50%;
 }
 
 .double-text > h4 {
   display: flex;
   writing-mode: vertical-rl;
   text-orientation: mixed;
+  margin-left: 0;
 }
 
 .double-text > ul {
@@ -67,19 +70,29 @@
   list-style: none;
 }
 
-
-/* Coverpage style */
-/* .show {
-  background: none !important;
+.content-img-text {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
 }
 
 .cover-main {
-  background: none;
-} */
+  margin: 0 !important;
+}
 
+.cover-main > div {
+  display: flex;
+  width: 50vw;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #333333;
+  padding-left: 2vw;
+}
 
 .cover {
-  background-image: url('../images/veia.jpg') !important;
+  background-image: url('../images/capa.png') !important;
+  background-size: cover !important;
   background-repeat: no-repeat !important;
   background-attachment: fixed !important;
   background-position: center !important;
@@ -162,7 +175,7 @@ section.cover .cover-main > p:last-child a {
 }
 
 .destaque {
-  font-size: 40px;
+  font-size: 20px;
   font-weight: 100;
 }
 
@@ -216,6 +229,12 @@ section.cover .cover-main > p:last-child a {
     margin-top: 25px;
   }
 
+  .content-img-text {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
 }
 
 
