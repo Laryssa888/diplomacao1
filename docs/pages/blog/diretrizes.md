@@ -1,4 +1,5 @@
 # Diretrizes projetuais
+
 <div>
 
   <div align="justify" class="body-text">
@@ -70,8 +71,6 @@
 
   O papel da luz é essencial para realçar os espaços. Além disso, possibilitar a entrada de luz e de ventilação natural no ambiente é ideal, mas é necessário balancear utilizando recursos que proporcionem a quantidade adequada, para que não cause desconforto térmico. Somada essas estratégias junto com o estudo de referências projetuais, chegou então a esse projeto, onde foram observados que a exclusão social é um dos maiores problemas da institucionalização do idoso. A escolha desse trabalho é agregar Centro de Convivência do Idoso e ILPI que tem como obje tivo trazer a integração e consequentemente a reinserção do idoso institucio nalizado na família e na sociedade.
   
-  ----
-
   ----
 
   ##### <center> DIPLOIMAÇÃO I

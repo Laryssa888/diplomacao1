@@ -1,5 +1,9 @@
 # Área de intervenção
 
+<div>
+<div style="width:100%; justify-content:center; display:flex;">
+  <img style="width:90%;" src='assets/images/estudo_de_caso1.png'/>
+</div>
 
 <div align="justify" class="body-text" >
 
@@ -55,3 +59,5 @@ O Recanto das Emas conta com belíssimas reservas naturais. Em 1996, por meio da
   </div>
 
 </div>
+</div>
+

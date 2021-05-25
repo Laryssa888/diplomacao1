@@ -3,7 +3,60 @@
 
 <div align="justify" class="body-text">
 
-## Lar de idosos em Perafita
+
+# Lar dos idosos
+
+### ESTUDO DE CASO
+
+<div style="display:flex; justify-content:space-between">
+  <img style="width:25%" src='assets/images/GIF1.gif'/>
+  <img style="width:25%" src='assets/images/GIF4.gif'/>
+  <img style="width:25%" src='assets/images/GIF3.gif'/>
+</div>
+
+<div style="display:flex; justify-content:center; margin-top:40px">
+  <img style="width:70%" src='assets/images/GIF2.gif'/>
+</div>
+
+### CIRCULAÇÃO E CORES
+
+  <div class="body-img">
+    <p>
+      O edifício segue a curva inclinada da colina e é visível a partir do vale. Para reduzir o impacto visual deste imponente edifício, acreditamos que é melhor dividi-lo. Atingimos o efeito desejado utilizando a cor verde, com o resultado de que o edifício se funde com a paisagem mais ampla e reflete a natureza rural do terreno. As faces inferiores dos balanços e as paredes brancas da base produzem uma sensação de leveza.
+    </p>
+    <img src='assets/images/referencia16.png'/>
+  </div>
+
+  <img src='assets/images/referencia17.png'/>
+
+Cada uma das unidades habitacionais encaixa dentro de uma secção do edifício e todas estão conectadas a uma rua orientada para o sul, respaldada pela colina. Esta disposição gera vistas e traz a luz natural através do edifício de um lado ao outro. A cor vermelha desestrutura o espaço e agrega dinamismo. Evitamos o uso de cores convencionais do entorno hospitalar.
+
+O edifício foi projetado para melhorar as áreas de estar e passeio. Sua força reside em sua relação com a paisagem.
+
+  <img src='assets/images/referencia18.png'/>
+
+Fachadas texturizadas de tijolos são complementadas por espaços comuns em tons de terracota neste complexo habitacional de idosos, completado pelo escritório francês Dominique Coulon & Associés em um subúrbio de Basel.
+
+O edifício contém 25 residências individuais, além se restaurante, oficina, sala de computadores, horta e um campo de petanca. A escolha dos materiais faz referência ao ambiente industrial do edifício em uma antiga área portuária.
+  
+  <div class="body-img">
+    <p>
+      O tijolo vermelho é usado para revestir todas as superfícies externas. Os arquitetos escolheram um tijolo feito à mão com uma forma ligeiramente irregular para ajudar a criar fachadas ricamente texturizadas que captam a luz do sol. Para combinar, muitos dos interiores incluindo um corredor no centro do edifício e a escadaria principal - são feitos de concreto que é pigmentado para combinar com os pisos de terracota.
+    </p>
+    <img src='assets/images/referencia19.png'/>
+  </div>
+
+  <img src='assets/images/referencia20.png'/>
+
+  <div class="body-img">
+    <p>
+      A estrutura compreende uma série de volumes geométricos interligados. Estes são dispostos de modo que os espaços comuns se voltam para o rio e para os vasos que passam. Residentes e visitantes entram por portas envidraçadas no corredor central, que se conecta a um terraço com vista para o Reno, no lado oposto. O salão de altura dupla é iluminado pela luz do dia entrando pelas paredes envidraçadas, bem como por uma série de clarabóias e janelas circulares que revestem um dos lados de um pátio do primeiro andar que se projeta do teto. Uma escadaria proeminente posicionada a um lado do espaço conecta os dois andares. Juntamente com outras áreas comuns do edifício, a escadaria destina-se a incentivar a interação improvisada entre os moradores.
+    </p>
+    <img src='assets/images/referencia21.png'/>
+  </div>
+
+----
+# Lar de idosos em Perafita
 
 ### PROGRAMA DE NECESSIDADES / INTERAÇÃO
 
@@ -43,47 +96,6 @@ O edifício secundário é elevado a partir do solo, criando um espaço ideal de
   <img src='assets/images/referencia14.png'/>
 
 A seleção das cores recaiu numa distinção fundamental – espaços de passagem ou de curta estadia e espaços de maior permanência, ou seja, corredores e sanitários versus quartos e salas. Assim, para os espaços de passagem criaram-se ambientes dinâmicos, ritmados por cores, com marcação de volumes e grafismos angulares nos pavimentos, tetos e iluminação. Para os espaços de maior permanência foi dada preponderância à ortogonalidade e cores neutras, com apontamentos cromáticos que estabelecem uma continuidade entre os dois tipos de ambientes.
-
-----
-
-## Lar dos idosos
-
-### CIRCULAÇÃO E CORES
-
-  <div class="body-img">
-    <p>
-      O edifício segue a curva inclinada da colina e é visível a partir do vale. Para reduzir o impacto visual deste imponente edifício, acreditamos que é melhor dividi-lo. Atingimos o efeito desejado utilizando a cor verde, com o resultado de que o edifício se funde com a paisagem mais ampla e reflete a natureza rural do terreno. As faces inferiores dos balanços e as paredes brancas da base produzem uma sensação de leveza.
-    </p>
-    <img src='assets/images/referencia16.png'/>
-  </div>
-
-  <img src='assets/images/referencia17.png'/>
-
-Cada uma das unidades habitacionais encaixa dentro de uma secção do edifício e todas estão conectadas a uma rua orientada para o sul, respaldada pela colina. Esta disposição gera vistas e traz a luz natural através do edifício de um lado ao outro. A cor vermelha desestrutura o espaço e agrega dinamismo. Evitamos o uso de cores convencionais do entorno hospitalar.
-
-O edifício foi projetado para melhorar as áreas de estar e passeio. Sua força reside em sua relação com a paisagem.
-
-  <img src='assets/images/referencia18.png'/>
-
-Fachadas texturizadas de tijolos são complementadas por espaços comuns em tons de terracota neste complexo habitacional de idosos, completado pelo escritório francês Dominique Coulon & Associés em um subúrbio de Basel.
-
-O edifício contém 25 residências individuais, além se restaurante, oficina, sala de computadores, horta e um campo de petanca. A escolha dos materiais faz referência ao ambiente industrial do edifício em uma antiga área portuária.
-  
-  <div class="body-img">
-    <p>
-      O tijolo vermelho é usado para revestir todas as superfícies externas. Os arquitetos escolheram um tijolo feito à mão com uma forma ligeiramente irregular para ajudar a criar fachadas ricamente texturizadas que captam a luz do sol. Para combinar, muitos dos interiores incluindo um corredor no centro do edifício e a escadaria principal - são feitos de concreto que é pigmentado para combinar com os pisos de terracota.
-    </p>
-    <img src='assets/images/referencia19.png'/>
-  </div>
-
-  <img src='assets/images/referencia20.png'/>
-
-  <div class="body-img">
-    <p>
-      A estrutura compreende uma série de volumes geométricos interligados. Estes são dispostos de modo que os espaços comuns se voltam para o rio e para os vasos que passam. Residentes e visitantes entram por portas envidraçadas no corredor central, que se conecta a um terraço com vista para o Reno, no lado oposto. O salão de altura dupla é iluminado pela luz do dia entrando pelas paredes envidraçadas, bem como por uma série de clarabóias e janelas circulares que revestem um dos lados de um pátio do primeiro andar que se projeta do teto. Uma escadaria proeminente posicionada a um lado do espaço conecta os dois andares. Juntamente com outras áreas comuns do edifício, a escadaria destina-se a incentivar a interação improvisada entre os moradores.
-    </p>
-    <img src='assets/images/referencia21.png'/>
-  </div>
 
 ----
 

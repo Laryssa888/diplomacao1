@@ -4,7 +4,7 @@
 * [CONTEXTO/PANORAMA](./pages/blog/contexto.md)
 * [REFERÊNCIAS PROJETUAIS](./pages/blog/referencias.md)
 * [ÁREA DE INTERVENÇÃO](./pages/blog/intervencao.md)
-* ESTUDO DE CASO
-  * [PROGRAMA DE NECESSIDADES](./pages/blog/programa_de_necessidades.md)
-  * [DIRETRIZES PROJETUAIS](./pages/blog/diretrizes.md)
+* [PROJETO](./pages/blog/estudo_preliminar.md)
+* [PROGRAMA DE NECESSIDADES](./pages/blog/programa_de_necessidades.md)
+* [DIRETRIZES PROJETUAIS](./pages/blog/diretrizes.md)
 * [BIBLIOGRAFIA](./pages/blog/bibliografia.md)
