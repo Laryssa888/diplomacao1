@@ -115,6 +115,11 @@ section.cover .cover-main > p:last-child a {
   color: var(--main-color) !important;
 } 
 
+.sidebar li:first-of-type > p {
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+
 .sidebar-toggle span {
   background-color: var(--main-color) !important;
 }

@@ -63,13 +63,20 @@
 
 # Implantação
 
-  <div style="display:flex; align-items:center; flex-direction:column">
+  <div style="display:flex; align-items:center; flex-direction:column; margin-bottom: 50px">
     <img style="width:70%;" src='assets/images/implantacao.jpg'/>
+  </div>
+
+# Setorização
+
+  <div style="display:flex; margin-bottom: 50px">
+    <img style="width:45%;" src='assets/images/setorizacao1.jpg'/>
+    <img style="width:58%;" src='assets/images/setorizacao2.jpg'/>
   </div>
 
 # Carta solar
 
-  <div style="display:flex; align-items:center; flex-direction:column">
+  <div style="display:flex; align-items:center; flex-direction:column; margin-bottom: 50px">
     <img style="width:70%;" src='assets/images/carta_solar.jpg'/>
   </div>
 
